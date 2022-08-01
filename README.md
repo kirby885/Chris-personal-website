@@ -11,4 +11,9 @@ Commit 9: Then created script.js
 Commit 10: Then linked it with githubs online version
 Commit 11: Then with css changed the websites background color to a blue hue color(#006ca9)
 Commit 12: Found photos for Website and converted some from heic to img
-Commit 13: 
+Commit 13: Added my name with script.js
+Commit 14: Added my wedding day portait of myself.
+Commit 15: Added "Welcome to my website!" with index.html
+Commit 16: Added <p> about why my website is blue.
+Commit 17: Added a About Me <h3>
+Commit 18: Then Added info about myself!
